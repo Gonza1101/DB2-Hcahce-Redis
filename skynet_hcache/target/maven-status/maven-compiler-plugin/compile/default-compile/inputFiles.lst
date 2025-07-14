@@ -1,0 +1,12 @@
+/home/gnz/Documentos/BD2/tp_3/skynet_hcache/src/main/java/tp3_hcahe/skynet_hcache/SkynetHcacheApplication.java
+/home/gnz/Documentos/BD2/tp_3/skynet_hcache/src/main/java/tp3_hcahe/skynet_hcache/configuration/EhCacheConfig.java
+/home/gnz/Documentos/BD2/tp_3/skynet_hcache/src/main/java/tp3_hcahe/skynet_hcache/controller/AeropuertoController.java
+/home/gnz/Documentos/BD2/tp_3/skynet_hcache/src/main/java/tp3_hcahe/skynet_hcache/controller/AvionController.java
+/home/gnz/Documentos/BD2/tp_3/skynet_hcache/src/main/java/tp3_hcahe/skynet_hcache/dto/AeropuertoDto.java
+/home/gnz/Documentos/BD2/tp_3/skynet_hcache/src/main/java/tp3_hcahe/skynet_hcache/dto/AvionDto.java
+/home/gnz/Documentos/BD2/tp_3/skynet_hcache/src/main/java/tp3_hcahe/skynet_hcache/entity/Aeropuerto.java
+/home/gnz/Documentos/BD2/tp_3/skynet_hcache/src/main/java/tp3_hcahe/skynet_hcache/entity/Avion.java
+/home/gnz/Documentos/BD2/tp_3/skynet_hcache/src/main/java/tp3_hcahe/skynet_hcache/repository/AeropuertoRepository.java
+/home/gnz/Documentos/BD2/tp_3/skynet_hcache/src/main/java/tp3_hcahe/skynet_hcache/repository/AvionRepository.java
+/home/gnz/Documentos/BD2/tp_3/skynet_hcache/src/main/java/tp3_hcahe/skynet_hcache/service/AeropuertoService.java
+/home/gnz/Documentos/BD2/tp_3/skynet_hcache/src/main/java/tp3_hcahe/skynet_hcache/service/AvionService.java
