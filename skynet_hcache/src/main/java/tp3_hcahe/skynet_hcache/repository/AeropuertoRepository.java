@@ -1,0 +1,17 @@
+package tp3_hcahe.skynet_hcache.repository;
+
+
+import java.util.Optional;
+import java.util.UUID;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+
+import tp3_hcahe.skynet_hcache.entity.Aeropuerto;
+
+
+@Repository
+public interface AeropuertoRepository extends JpaRepository<Aeropuerto, UUID> {
+	
+	Optional<Aeropuerto> findBynombreaeropuerto(String nombreAeropuerto);
+}
